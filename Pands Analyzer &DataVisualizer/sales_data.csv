@@ -1,0 +1,22 @@
+Date,Product,Region,Sales,Profit
+2022-01-05,Product A,North,500,80
+2022-01-07,Product B,East,600,120
+2022-01-10,Product C,West,700,90
+2022-01-12,Product D,South,800,150
+2022-01-15,Product E,Central,550,110
+2022-02-01,Product A,North,650,100
+2022-02-05,Product B,East,720,140
+2022-02-10,Product C,West,680,85
+2022-02-15,Product D,South,900,160
+2022-02-18,Product E,Central,560,115
+2022-03-03,Product A,North,580,95
+2022-03-06,Product B,East,640,125
+2022-03-10,Product C,West,750,100
+2022-03-12,Product D,South,820,155
+2022-03-18,Product E,Central,590,105
+2022-04-01,Product A,North,700,120
+2022-04-04,Product B,East,660,130
+2022-04-09,Product C,West,770,95
+2022-04-15,Product D,South,880,165
+2022-04-18,Product E,Central,620,108
+
